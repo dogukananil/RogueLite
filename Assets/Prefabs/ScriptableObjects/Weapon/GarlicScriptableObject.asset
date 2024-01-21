@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6a87512b8a44fbaa0996fc5ad1024e, type: 3}
+  m_Name: GarlicScriptableObject
+  m_EditorClassIdentifier: 
+  spawnedWeapon: {fileID: 8172259467289323880, guid: ef8135210ab8d41459525e2c58662754, type: 3}
+  damage: 5
+  speed: 2
+  cooldownDuration: 3
